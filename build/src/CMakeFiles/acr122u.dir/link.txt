@@ -1,0 +1,2 @@
+/usr/bin/ar qc libacr122u.a CMakeFiles/acr122u.dir/ccid.c.o CMakeFiles/acr122u.dir/apdu.c.o CMakeFiles/acr122u.dir/acr122u_usb.c.o
+/usr/bin/ranlib libacr122u.a

@@ -1,0 +1,8 @@
+/home/orfeas/acr122u_driver/build/CMakeFiles/edit_cache.dir
+/home/orfeas/acr122u_driver/build/CMakeFiles/rebuild_cache.dir
+/home/orfeas/acr122u_driver/build/src/CMakeFiles/acr122u.dir
+/home/orfeas/acr122u_driver/build/src/CMakeFiles/edit_cache.dir
+/home/orfeas/acr122u_driver/build/src/CMakeFiles/rebuild_cache.dir
+/home/orfeas/acr122u_driver/build/test_app/CMakeFiles/exec.dir
+/home/orfeas/acr122u_driver/build/test_app/CMakeFiles/edit_cache.dir
+/home/orfeas/acr122u_driver/build/test_app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/orfeas/acr122u_driver/build/src",
+  "command": "/usr/bin/cc  -I/home/orfeas/acr122u_driver/inc -g -std=c99 -o CMakeFiles/acr122u.dir/ccid.c.o -c /home/orfeas/acr122u_driver/src/ccid.c",
+  "file": "/home/orfeas/acr122u_driver/src/ccid.c",
+  "output": "src/CMakeFiles/acr122u.dir/ccid.c.o"
+},
+{
+  "directory": "/home/orfeas/acr122u_driver/build/src",
+  "command": "/usr/bin/cc  -I/home/orfeas/acr122u_driver/inc -g -std=c99 -o CMakeFiles/acr122u.dir/apdu.c.o -c /home/orfeas/acr122u_driver/src/apdu.c",
+  "file": "/home/orfeas/acr122u_driver/src/apdu.c",
+  "output": "src/CMakeFiles/acr122u.dir/apdu.c.o"
+},
+{
+  "directory": "/home/orfeas/acr122u_driver/build/src",
+  "command": "/usr/bin/cc  -I/home/orfeas/acr122u_driver/inc -g -std=c99 -o CMakeFiles/acr122u.dir/acr122u_usb.c.o -c /home/orfeas/acr122u_driver/src/acr122u_usb.c",
+  "file": "/home/orfeas/acr122u_driver/src/acr122u_usb.c",
+  "output": "src/CMakeFiles/acr122u.dir/acr122u_usb.c.o"
+},
+{
+  "directory": "/home/orfeas/acr122u_driver/build/test_app",
+  "command": "/usr/bin/cc  -I/home/orfeas/acr122u_driver/inc -g -std=c99 -o CMakeFiles/exec.dir/main.c.o -c /home/orfeas/acr122u_driver/test_app/main.c",
+  "file": "/home/orfeas/acr122u_driver/test_app/main.c",
+  "output": "test_app/CMakeFiles/exec.dir/main.c.o"
+}
+]
