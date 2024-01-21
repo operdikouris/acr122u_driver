@@ -49,7 +49,7 @@ int main (void)
 
   /*increase time out*/
   set_configuration();
-  authenticate();
+  // authenticate();
 
   return 0; 
 }
